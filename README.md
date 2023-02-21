@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Samantha Kudzaishe Kelosi</h1>
 <h3 align="center">Dedicated Computing student with a passion for creating innovative software solutions through hands-on learning and interpersonal development. Adept at problem-solving and project implementation with a keen attention to detail. Seeking to leverage skills and knowledge to contribute to a dynamic team and drive meaningful impact in the field of technology.</h3>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/sammanthahh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sammanthahh" height="30" width="40" /></a>
