@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Samantha Kudzaishe Kelosi</h1>
-<h3 align="center">Dedicated Computing student with a passion for creating innovative software solutions through hands-on learning and interpersonal development. Adept at problem-solving and project implementation with a keen attention to detail. Seeking to leverage skills and knowledge to contribute to a dynamic team and drive meaningful impact in the field of technology.</h3>
+<h1 align="center">Hi 👋, I'm Samantha Kelosi</h1>
+<h3 align="center">MBA Data Analytics student at the University of Hertfordshire | BSc Computing | Passionate about data storytelling, dashboard design, and solving real-world problems through smart analytics. Experience in SQL, Power BI, Python, and working with AI-driven fintech solutions. Open to collaboration and always learning!
+</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
